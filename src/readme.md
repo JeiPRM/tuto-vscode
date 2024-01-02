@@ -17,4 +17,4 @@ en markdown se puede seleccionar el tipo de archivo, asi como el lenguaje de pro
 
 En las busquedas del lado izquierdo puedes buscar cualquier cosa en tu codigo y se resalta lo que busques,puedes escribir palabras con mayusculas o minusculas, se puede encontrar una palabra en especifico, con el match hole word. Con el replace, puedes cambiar palabras.
 
-Git sirve para el control de versiones, primero para hacer un commit se ocupa de subir al stage los archivos que a los que quieras hacer commit. despues le pones un nombre al commit y hacer el commit.
+Git sirve para el control de versiones, primero para hacer un commit se ocupa de subir al stage los archivos que a los que quieras hacer commit. despues le pones un nombre al commit y hacer el commit. Se pueden crear tambien nuevas ramas, la barras de estado, en la esquina inferior izquierda nos indica en que rama estamos, las branches sirven para que de la misma version crear nuevas versiones con nuevas funcionalidades etc, que despues seran implementadas posiblimente a la branch principal.
